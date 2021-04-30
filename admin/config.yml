@@ -3,7 +3,7 @@ backend:
   name: github
   repo: feiko/StaticBlogExample
   branch: master
-  site_domain: fgorter.github.io
+  site_domain: feiko.io
 
 media_folder: "/input/images/"
 public_folder: "/images/"
